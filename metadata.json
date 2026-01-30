@@ -1,0 +1,7 @@
+{
+  "name": "TerreFVG Map V2",
+  "description": "An interactive map for discovering agricultural excellence in Friuli Venezia Giulia, featuring AI-powered company insights and real-time navigation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
